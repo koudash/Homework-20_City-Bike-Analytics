@@ -1,6 +1,6 @@
 .ipynb_checkpoints
+api_keys.py
 
 # The following two files exceed GitHub's file size limit of 100MB
 # Push zipped files instead
-201904-citibike-tripdata.csv
 201905-citibike-tripdata.csv
