@@ -32,6 +32,9 @@
   
 <h3>Operation and Cost-effectiveness</h3>
 
-<p>The top 10 start and end stations by counts were all located in middle and south part of Manhattan, whileas the bottom 10 stations were mostly satellited outside on map. Station <strong>9 Ave & W 22 St</strong> was listed in bottom 10 of both start (ct=36) and end (ct=8) stations. What made it worse is that the station locates in Manhattan, surrounded by top 10 stations. A closer attention and discussion over this station might be needed from the perspective of operation and cost-effectiveness.
+<p>The top 10 start and end stations by counts were all located in middle and south part of Manhattan, whileas the bottom 10 stations were mostly satellited outside on map. Station <strong>9 Ave & W 22 St</strong> was listed in bottom 10 of both start (ct=36) and end (ct=8) stations. What made it worse is that the station locates in Manhattan, surrounded by top 10 stations. A closer attention and discussion over this station might be needed from the perspective of operation and cost-effectiveness.</p>
 <img src="/data/figures/readme-images/ridership-by-tb10-start-sta.png" alt="ridership by users"> 
 <img src="/data/figures/readme-images/ridership-by-tb10-end-sta.png" alt="ridership by users"> 
+
+<p>Mileage estimates by bike ID were calculated using an assumed speed of 7.456 miles per hour, up to two hours. #27841 and 30176 were the only two bikes that maxed out at 14.9 miles. Similarly, bike #35316 won out over ridership counts. When setting mileage coverage and ridership counts as x- and y-axis, bikes were illustrated in chart of <i>Bikes due for Inspection?</i>. By dragging the filter bar of "Range of est. mileage" and "Range of ridership counts", bikes with id of #35001, 30774, 25052, 29399, 16029, 35346, 25153, 21116, 18241, and 24971 were identified as having poor performance with only being used once for less than 0.5 miles in 2019/05, indicating an inspection for potential repair.</p>
+<img src="/data/figures/readme-images/ridership-by-bikeid.png" alt="ridership by users"> 
