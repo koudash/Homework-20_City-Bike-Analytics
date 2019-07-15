@@ -30,4 +30,8 @@
 <p>There are extreme peaks on chart of <i>Trip Duration by Ages</i>, being duration for the age of 16, 50, 84, and 88. While looking at the case distribution of extreme ages, I identified two outliers: one in age of 16 with duration of 13441 min and the other one from age of 88 with duration of 176.4 min. In Updating the trip duration chart by removing two outliers, there were still three extreme high values at the age of 50 (YOB=1969, could not be further analyzed in current scenario), 84, and 88 (unreasonable, age threshold of 90 might be set lower). Apart from that, younger users tent to ride longer than older one between the age of 16 and 40. It became flat after 40. The trend was almost the same on weekdays. However, there were more random high peaks before 50 on weekends. Users in general were riding longer than on weekdays.</p>
 <img src="/data/figures/readme-images/duration-by-age.png" alt="ridership by users"> 
   
+<h3>Operation and Cost-effectiveness</h3>
 
+<p>The top 10 start and end stations by counts were all located in middle and south part of Manhattan, whileas the bottom 10 stations were mostly satellited outside on map. Station <strong>9 Ave & W 22 St</strong> was listed in bottom 10 of both start (ct=36) and end (ct=8) stations. What made it worse is that the station locates in Manhattan, surrounded by top 10 stations. A closer attention and discussion over this station might be needed from the perspective of operation and cost-effectiveness.
+<img src="/data/figures/readme-images/ridership-by-tb10-start-sta.png" alt="ridership by users"> 
+<img src="/data/figures/readme-images/ridership-by-tb10-end-sta.png" alt="ridership by users"> 
