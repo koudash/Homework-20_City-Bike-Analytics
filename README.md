@@ -32,7 +32,7 @@
   
 <h3>Operation and Cost-effectiveness</h3>
 
-<p>The top 10 start and end stations by counts were all located in middle and south part of Manhattan, whileas the bottom 10 stations were mostly satellited outside on map. Station <strong>9 Ave & W 22 St</strong> was listed in bottom 10 of both start (ct=36) and end (ct=8) stations. What made it worse is that the station locates in Manhattan, surrounded by top 10 stations. A closer attention and discussion over this station might be needed from the perspective of operation and cost-effectiveness.</p>
+<p>The top 10 start or end stations by counts were all located in middle and south part of Manhattan, whileas the bottom 10 stations were mostly satellited outside on map. Station <strong>9 Ave & W 22 St</strong> was listed in bottom 10 of both start (ct=36) and end (ct=8) stations. What made it worse is that the station locates in Manhattan, surrounded by top 10 stations. A closer attention and discussion over this station might be needed from the perspective of operation and cost-effectiveness.</p>
 <img src="/data/figures/readme-images/ridership-by-tb10-start-sta.png" alt="ridership by users"> 
 <img src="/data/figures/readme-images/ridership-by-tb10-end-sta.png" alt="ridership by users"> 
 
