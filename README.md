@@ -1,4 +1,4 @@
-# Homework-20_City-Bike-Analytics
+# NYC-City-Bike
 
 <p><strong>This project aims to generate report for the <a href="https://en.wikipedia.org/wiki/Citi_Bike">New York Citi Bike</a> Program using data from <a href="https://www.citibikenyc.com/system-data">Citi Bike Data</a>. Specifically, data used here are monthly trip data between 2017/06 and 2019/05 and quarterly trip data from the third quarter of 2018 to the second of 2019. The historical monthly temperature data of the same quarter periods for Central Park, NY was obtained from <a href="https://w2.weather.gov/climate/index.php?wfo=okx">National Weather Service Forecast Office, New York, NY</a>.</strong></p>
 
